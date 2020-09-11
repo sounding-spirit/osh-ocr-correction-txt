@@ -8,7 +8,7 @@ The  leading  note  is  always  on  some  one  line  or  space  of  the  music  
 and  so  is  the  key  note.  When  the  leading  note  is  discovered,  then  the  key  note 
 is  on  the  next  line  or  space  above  or  below  it,  and  wherever  you  find  the  key 
 note  it  is  always  No.  1. 
-Two  kinds  of  music  are  in  use,  called  Maj  or,  bright  and  j  oyous,  and  Minor, 
+Two  kinds  of  music  are  in  use,  called  Maj  bright  and  oyous,  and  Minor, 
 plaintiff  and  melancholy. 
 When  Major  music  is  written,  the  key  note  is  on  the  first  line  or  space 
 above  the  leading  note.  In  Minor  music  the  key  note  is  on  the  line  or  space 

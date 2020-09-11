@@ -5,7 +5,7 @@ ferent  notations.  Shape  Notes.  Key  of  C.  G  Clef.
 The  Seven  Shaped  Notes. 
 the  notes  on  the  staff  in  the  dif— 
 Do,  or  One  is  on  added  line  below 
-1  2  3 ?  4  5  6  7  .8  7  6  5  4  3  2,1 
+1  2  3  4  5  6  7  .8  7  6  5  4  3  2,1 
 Do,  Re,  Me,  Fa,  Sol,  La.  Se,  Do.  Do,  Se,  La,  Sol,  Fa,  Me,  Re,  Do. 
 Round  Notes,  (Read  by  their  position  on  the  staff.) 
 Key  of  E  flat.  B,  E  and  A  flat,  (Three  flats.)  Round  notes. 
@@ -58,7 +58,7 @@ As  stated  above  they  are  called  Do,  Re,  Me,  Fa,  Sol,  La,  Se.  But  t
 as  to  whole,  half,  quarter  ect.  are  the  same  in  all  the  books. 
 There  are  six  notes  in  relation  to  the  time  of  each.  They  are  called  Semibreve, 
 Minum,  Crochet,  Quaver,  Semiquaver,  and  Demisemiquaver. 
-“  The  following  shows  the  proportion  one  note  bears  another  as  they  appear  in  the 
+The  following  shows  the  proportion  one  note  bears  another  as  they  appear  in  the 
 songs  regardless  of  notation. 
 One  Semibreve  is  equal  in  time  to  Two  Minums. 
 Four  Crochets,'' 

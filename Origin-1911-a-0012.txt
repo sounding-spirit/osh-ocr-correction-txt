@@ -15,7 +15,7 @@ K
 a 
 8 
 5 
-o  4  . 
+4 
 2  3 
 There  is  a  general  scale  in  which  the  tones  extends  not  only  from  one  to  eight 
 but  from  one  to  fifteen;  This  is  called 
@@ -66,12 +66,12 @@ G
 F 
 When  the  F  clef  is  used,  F  is  on  the  fourth  line  and  space  below. 
 Musical  Notes. 
-There  are  characters  in  music  called  notes;  the  notes  a;  e  placed  on  the  staff 
+There  are  characters  in  music  called  notes;  the  notes  a; e  placed  on  the  staff 
 and  are  representatives  of  musicai  sounds  or  tones,  and  are  placed  on  the  staff  so 
 arranged  as  to  make  the  tune  desired.  The  position  of  the  notes  on  the  staff  iswhat 
 ’s  known  in  music  as  pitch  of  tones. 
 18.  What  are  these  notes  called?  Give  the  names  of  them  in  each  system 
-whether  f  ur  or  seven  notes  are  used. 
+whether  f ur  or  seven  notes  are  used. 
 In  four  headed  notes  they  are  called  Mi  ,Fa  ,  Sol  ,  La  ,  four  in  number. 
 In  round,  or  seven  shaped  notes,  they  are  called  Do  ,  Ray  ,  ,  Fa  ,  Sol  ,  La  , 
 See  [by  some]  Tee  ,  however  all  tones  can  be  played  or  sung  to  four  or  seven 
