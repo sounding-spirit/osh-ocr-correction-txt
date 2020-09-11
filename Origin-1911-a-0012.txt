@@ -1,0 +1,159 @@
+2 
+RUDIMENTS  Contnued 
+Octave. 
+An  octave  is  an  interval  of  eight  degrees.  The  first  octave  begins  on  number 
+orfe  and  includes  eight,  as  follows; 
+7 
+12 
+2 
+7 
+4 
+9 
+K 
+10 
+?1 
+a 
+8 
+5 
+o  4  . 
+2  3 
+There  is  a  general  scale  in  which  the  tones  extends  not  only  from  one  to  eight 
+but  from  one  to  fifteen;  This  is  called 
+The  Extended  Scale. 
+Number  eight  of  the  first  octave  is  number  one  of  the  second  octave,  viz: 
+h  >4  * 5 
+So  the  first  octave  numbers  from  “one  to  eight”  and  the  second  octave  from 
+‘eight  to  fifteen”  and  the  third  from  “fifteen  to  twenty-two”  ect.  In  the  general 
+scale,  in  thesamway  with  all  addiiional  tones  or  octaves,  fifteen  being  number  one 
+of  the  third  octave,  twenty-two  number  one  of  the  third  octave  ect. 
+On  the  staff,  at  the  beginningare  placed  characters  called  clefs,  G,  C,  and  F 
+clefs.  A  clef  is  a  character  used  to  determine  the  name  and  pitch  of  notes  on  the 
+staff  to  which  it  is  prefixed; 
+The  the  letters  are  placed  on  the  staff,  according  to  the  G  clef,  thus: 
+G 
+F 
+E 
+D 
+C 
+B 
+A 
+G 
+F 
+E 
+D 
+G  is  on  the  second  line,  when  the  G  clef  is  used. 
+G 
+F 
+E 
+D 
+C 
+B 
+A 
+G 
+F 
+E 
+C.  is  on  the  third  line  when  the  C  clef  is  used. 
+B 
+A 
+G 
+F 
+E 
+D 
+C 
+B 
+A 
+G 
+F 
+When  the  F  clef  is  used,  F  is  on  the  fourth  line  and  space  below. 
+Musical  Notes. 
+There  are  characters  in  music  called  notes;  the  notes  a;  e  placed  on  the  staff 
+and  are  representatives  of  musicai  sounds  or  tones,  and  are  placed  on  the  staff  so 
+arranged  as  to  make  the  tune  desired.  The  position  of  the  notes  on  the  staff  iswhat 
+’s  known  in  music  as  pitch  of  tones. 
+18.  What  are  these  notes  called?  Give  the  names  of  them  in  each  system 
+whether  f  ur  or  seven  notes  are  used. 
+In  four  headed  notes  they  are  called  Mi  ,Fa  ,  Sol  ,  La  ,  four  in  number. 
+In  round,  or  seven  shaped  notes,  they  are  called  Do  ,  Ray  ,  ,  Fa  ,  Sol  ,  La  , 
+See  [by  some]  Tee  ,  however  all  tones  can  be  played  or  sung  to  four  or  seven 
+notes,  whether  they  be  round  or  shaped. 
+The  following  examples  shows  the  position  of  the  notes  on  the  staff  when  the 
+four  shape  system  is  used.  _ 
+TENOR  OR  TREBLE  STAFF.  (G.  Clef.) 
+G  Sol 
+Space  above 
+F 
+Fa  Fifth  line 
+E 
+La 
+Fourth  space 
+D 
+Sol 
+Fourth  line 
+C 
+Fa 
+Third  space 
+B 
+Me 
+Third  line 
+A 
+La 
+Second  space 
+G 
+Sol 
+Second  line 
+F 
+Fa 
+First  space 
+E 
+La 
+First  line 
+D 
+Sol 
+Space  belcw 
+The  C,  or  Alto  clef  shows  the  position  of  the  notes  as  foMows: 
+A  La 
+Space  above 
+G 
+Sol 
+Fifth  line 
+r 
+Fa 
+Fourth  space 
+E 
+La 
+Fourth  lino 
+D 
+Sol 
+Third  space 
+C 
+Far 
+Third  line 
+B 
+Me 
+Second  space 
+A 
+La 
+Second  line 
+G 
+Sol 
+First  spact 
+F 
+Fa 
+First  line 
+E 
+La 
+Space  below 
+F 
+The  F  clef  or  Bass  clef,  is  for  male  voices,  and  shows  the  notes  thus 
+B  Me  Space  above 
+A  La  Fifth  line 
+G  Scle  Fourth  space 
+F  Fa  Fourth  line 
+E  La  Third  space 
+D  Sol  Third  line 
+0  Fa  Second  space 
+B  Me  Second  line 
+A  La  First  space 
+G  Sol  First  line 
+Fa  Space  below 
+

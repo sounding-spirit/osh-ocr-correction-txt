@@ -1,0 +1,111 @@
+14  RUDIMENTS 
+In  our  system  of  musical  notation,  the  pitch  C  is  assumed  as  a  starting  point, 
+and  all  keyed  instruments,  as  pianos  and  organs  are  constructed  so  as  to  play  half 
+steps  between  E  and  F,  and  B  and  C,  and  whole  steps  between  all  the  other  letters. 
+Therefore,  when  the  scale  is  based  on  C,  the  Clefs  used  to  indicate  the  position 
+and  order  of  the  letters,  are  sufficient  also  to  form  its  signature,  and  the  white  keys 
+play  the  order  of  intervals  required  to  constitute  the  Major  Diatonic  Scale,  as  repre -
+sented  on  page  7.  For  this  reason  the  key  of  C  is  frequently  spoken  of  as  the  nat -
+ural  key. 
+C  Scale. 
+Fa. 
+Sol. 
+La. 
+Fa. 
+Sol. 
+La. 
+Me 
+Fa. 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+C 
+D 
+E 
+F 
+G 
+A 
+B. 
+C 
+All  other  keys  require  the  employment  of  either  sharps  or  flats  in  the  signature, 
+as  will  soon  appear.  When  any  other  pitch  than  C  is  taken  as  One  of  the  scale,  it 
+s  said  to  be  TRANS  POSED. 
+as  four  degrees  below,  both  leading  to 
+the  same  point  in  the  Scale,  thus: 
+There  are  two  systematic  ways  of  transposing  the  scale.  One  is  by  fifths  and  the 
+other  by  fourths.  To  transpose  the  scale  by  fifthsis  to  move  it  up  FIVF  Degrees 
+Higher  or  FOUR  Degree  Lower,  and  to  transpose  by  fourths  is  to  move  it  up  FOUR 
+Degrees  Higher;  or  DOWN  FIVE  Degrees  Lower.  Five  degrees  above  is  the  same 
+Four  degrees  above  is  the  same  thing  as 
+five  degrees  below,  both  leading  to  the  same 
+point  in  the  Scale,  thus  : 
+In  commencing  a  series  of  transpositions  of  the  Scale,  whether  by  fifths,  or 
+fourths,  the  fisrt  transposition  must  be  made  from  the  key  cf  C,  and  thereafter  form 
+the  last  key  obtained. 
+In  transposing  by  fifths,  sharps  are  used  to  form  the  new  signature. 
+In  transposing  by  fourths,  flats  are  used  to  form  the  new  signature. 
+Signature  sharps  and  flats  affect  all  the  notes  of  corresponding  names,  higher  or 
+lower,  unless  contradicted  by  ihe  Natural.  The  first  tramsposition  of  the  Scale,  by 
+fifths  is  from  C  to  G,  We  simply  take  G  as  One  of  the  Scale  in  higher  position,  thus: 
+Continued 
+From  C,  Clef  Signature,  to 
+Change  of  Key. 
+‘  >  G,  F^  Signature. 
+1  2  3  4  5 
+▲  V  ♦  k  * 
+C  D  E  F  G 
+From  G,  Fn  Signature  to 
+1  2  3  4  5 
+&  0  O  O 
+G  A  B  C  D 
+i,  F  and  O'*  Signature. 
+tT 
+6  7  8 
+□  \  S’, 
+E  F$  C 
+12345  12345678 
+D  E  Fjf  G  A  B  C-I+  D 
+From  D,  F  and  C££  Signature,  to  A,  F  C  and  Signature. 
+12345  12345678 
+D  E  F>  G  A  A  B  Cj  D  E  Fj  G  A 
+From  A,  F  C  and  G£,  to  E,  F  C  G  and  D*+  Signature. 
+From  A,  Signature  F  C  and  G^,  to  E,  FCG  and  D£  Signature. 
+12345  12345678 
+A  B  C> 
+In  transposing  the  Scale  by  fourths,  it  must  commence  frsm  C  also. 
+From  C,  Clef  Signature,  to  F,  Bb  Signatuae. 
+E  F- 
+E 
+E 
+D 
+ABC- 
+1 
+2 
+3 
+4 
+1 
+2' 
+3 
+4 
+5 
+6 
+7 
+8 
+C 
+D 
+E 
+F 
+F 
+G 
+A 
+Bb 
+C 
+D 
+E 
+F 
+
